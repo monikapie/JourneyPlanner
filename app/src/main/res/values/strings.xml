@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JourneyPlanner</string>
+    <string name="settings">Settings</string>
+    <string name="action_details">See details</string>
+    <string name="create_new_journey">Create new journey</string>
+    <string name="backdrop_title">TRAVEL THE WORLD</string>
+    <string name="backdrop_subtitle">Find your place!</string>
+    <string name="map">Map</string>
+    <string name="vertical_ellipsis">&#8942;</string>
+    <string name="delete">Delete</string>
+    <string name="uri">URI</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+</resources>
